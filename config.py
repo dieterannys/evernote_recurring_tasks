@@ -1,0 +1,3 @@
+DEV_TOKEN = ""
+sandbox=False
+POLLING_INTERVAL = 3600
